@@ -1,0 +1,10 @@
+{
+    "name": "Koffieteller",
+    "short_name": "Koffieteller",
+    "description": "Houd bij hoeveel koffie iedereen drinkt.",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
